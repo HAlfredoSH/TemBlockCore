@@ -1,0 +1,4 @@
+name: BlockCore
+version: '${project.version}'
+main: dev.forgezst.blockcore.MainCore
+api-version: '1.20'
